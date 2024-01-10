@@ -139,8 +139,8 @@ def top_albums(**kwargs):
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri=redirect_uri, scope=scope))
 
 
-    # Assuming append_top_albums modifies artist_info_list in-place
-    append_top_albums(artist_info_list, sp)  # 'sp' needs to be your authenticated Spotify client
+    
+    append_top_albums(artist_info_list, sp)  
 
     # Write the updated data back to the file
     file_path = '/tmp/output.json'  
@@ -158,8 +158,8 @@ def top_tracks(**kwargs):
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri=redirect_uri, scope=scope))
 
 
-    # Assuming append_top_albums modifies artist_info_list in-place
-    append_top_tracks(artist_info_list, sp)  # 'sp' needs to be your authenticated Spotify client
+    
+    append_top_tracks(artist_info_list, sp)  
 
     # Write the updated data back to the file
     file_path = '/tmp/output.json'  
@@ -172,7 +172,7 @@ def load_data_to_s3(bucket_name, s3_file_name, **kwargs):
     ti = kwargs['ti']
     file_path = ti.xcom_pull(task_ids='top_tracks')
     
-    s3_hook = S3Hook(aws_conn_id='aws_s3_conn')  # Use your AWS connection ID
+    s3_hook = S3Hook(aws_conn_id='aws_s3_conn')  # Use AWS connection ID configured on Airflow UI
     s3_hook.load_file(filename=file_path, bucket_name=bucket_name, key=s3_file_name, replace=True)
 
 
