@@ -1,0 +1,3131 @@
+[
+    {
+        "name": "Drake",
+        "genres": [
+            "canadian hip hop",
+            "canadian pop",
+            "hip hop",
+            "pop rap",
+            "rap"
+        ],
+        "popularity": 96,
+        "top_albums": [
+            {
+                "name": "For All The Dogs Scary Hours Edition",
+                "id": "4Q7cRXio6mF2ImVUCcezPO",
+                "release_date": "2023-11-17",
+                "total_tracks": 29
+            },
+            {
+                "name": "For All The Dogs",
+                "id": "4czdORdCWP9umpbhFXK2fW",
+                "release_date": "2023-10-06",
+                "total_tracks": 23
+            },
+            {
+                "name": "Her Loss",
+                "id": "5MS3MvWHJ3lOZPLiMxzOU6",
+                "release_date": "2022-11-04",
+                "total_tracks": 16
+            },
+            {
+                "name": "Honestly, Nevermind",
+                "id": "3cf4iSSKd8ffTncbtKljXw",
+                "release_date": "2022-06-17",
+                "total_tracks": 14
+            },
+            {
+                "name": "Certified Lover Boy",
+                "id": "3SpBlxme9WbeQdI9kx7KAV",
+                "release_date": "2021-09-03",
+                "total_tracks": 21
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "IDGAF (feat. Yeat)",
+                "duration_min_sec": "04:20",
+                "BPM": 136.902,
+                "mode": "major"
+            },
+            {
+                "name": "First Person Shooter (feat. J. Cole)",
+                "duration_min_sec": "04:07",
+                "BPM": 163.997,
+                "mode": "minor"
+            },
+            {
+                "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+                "duration_min_sec": "05:19",
+                "BPM": 146.009,
+                "mode": "major"
+            },
+            {
+                "name": "One Dance",
+                "duration_min_sec": "02:53",
+                "BPM": 103.967,
+                "mode": "major"
+            },
+            {
+                "name": "Jimmy Cooks (feat. 21 Savage)",
+                "duration_min_sec": "03:38",
+                "BPM": 165.921,
+                "mode": "major"
+            },
+            {
+                "name": "MELTDOWN (feat. Drake)",
+                "duration_min_sec": "04:06",
+                "BPM": 111.975,
+                "mode": "minor"
+            },
+            {
+                "name": "Needle (feat. Drake)",
+                "duration_min_sec": "03:55",
+                "BPM": 109.997,
+                "mode": "major"
+            },
+            {
+                "name": "God's Plan",
+                "duration_min_sec": "03:18",
+                "BPM": 77.169,
+                "mode": "major"
+            },
+            {
+                "name": "Rich Flex",
+                "duration_min_sec": "03:59",
+                "BPM": 160.07,
+                "mode": "minor"
+            },
+            {
+                "name": "Passionfruit",
+                "duration_min_sec": "04:58",
+                "BPM": 111.98,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "UTOPIA",
+            "Pink Friday 2",
+            "ANTI (Deluxe)",
+            "SAVAGE MODE II",
+            "WASTELAND"
+        ]
+    },
+    {
+        "name": "Kanye West",
+        "genres": [
+            "chicago rap",
+            "hip hop",
+            "rap"
+        ],
+        "popularity": 91,
+        "top_albums": [
+            {
+                "name": "Donda (Deluxe)",
+                "id": "2Wiyo7LzdeBCsVZiRA6vVZ",
+                "release_date": "2021-11-14",
+                "total_tracks": 32
+            },
+            {
+                "name": "Donda",
+                "id": "5CnpZV3q5BcESefcB3WJmz",
+                "release_date": "2021-08-29",
+                "total_tracks": 27
+            },
+            {
+                "name": "JESUS IS KING",
+                "id": "0FgZKfoU2Br5sHOfvZKTI9",
+                "release_date": "2019-10-25",
+                "total_tracks": 11
+            },
+            {
+                "name": "KIDS SEE GHOSTS",
+                "id": "6pwuKxMUkNg673KETsXPUV",
+                "release_date": "2018-06-08",
+                "total_tracks": 7
+            },
+            {
+                "name": "ye",
+                "id": "2Ek1q2haOnxVqhvVKqMvJe",
+                "release_date": "2018-06-01",
+                "total_tracks": 7
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Heartless",
+                "duration_min_sec": "03:31",
+                "BPM": 87.999,
+                "mode": "minor"
+            },
+            {
+                "name": "Flashing Lights",
+                "duration_min_sec": "03:57",
+                "BPM": 90.482,
+                "mode": "minor"
+            },
+            {
+                "name": "Father Stretch My Hands Pt. 1",
+                "duration_min_sec": "02:15",
+                "BPM": 113.088,
+                "mode": "major"
+            },
+            {
+                "name": "Runaway",
+                "duration_min_sec": "09:07",
+                "BPM": 84.733,
+                "mode": "minor"
+            },
+            {
+                "name": "I Wonder",
+                "duration_min_sec": "04:03",
+                "BPM": 191.386,
+                "mode": "major"
+            },
+            {
+                "name": "Bound 2",
+                "duration_min_sec": "03:49",
+                "BPM": 148.913,
+                "mode": "major"
+            },
+            {
+                "name": "Ni**as In Paris",
+                "duration_min_sec": "03:39",
+                "BPM": 140.022,
+                "mode": "major"
+            },
+            {
+                "name": "Homecoming",
+                "duration_min_sec": "03:23",
+                "BPM": 86.918,
+                "mode": "major"
+            },
+            {
+                "name": "Gold Digger",
+                "duration_min_sec": "03:27",
+                "BPM": 93.034,
+                "mode": "minor"
+            },
+            {
+                "name": "Violent Crimes",
+                "duration_min_sec": "03:35",
+                "BPM": 109.813,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": [
+            "Whole Lotta Red",
+            "More Life",
+            "Rodeo",
+            "Teenage Dream: The Complete Confection",
+            "Confessions (Expanded Edition)"
+        ]
+    },
+    {
+        "name": "USHER",
+        "genres": [
+            "atl hip hop",
+            "contemporary r&b",
+            "dance pop",
+            "pop",
+            "r&b",
+            "rap",
+            "south carolina hip hop",
+            "urban contemporary"
+        ],
+        "popularity": 80,
+        "top_albums": [
+            {
+                "name": "My Way (25th Anniversary Edition)",
+                "id": "3ideAfrVvWpeZkKB9fOz81",
+                "release_date": "2022-09-16",
+                "total_tracks": 16
+            },
+            {
+                "name": "\"A\"",
+                "id": "7JZi4kTfYCJcqOzVbKAYh5",
+                "release_date": "2018-10-12",
+                "total_tracks": 8
+            },
+            {
+                "name": "Hard II Love",
+                "id": "4HAuPn3A4uu9n7RYNk1dOz",
+                "release_date": "2016-09-16",
+                "total_tracks": 15
+            },
+            {
+                "name": "Looking 4 Myself (Expanded Edition)",
+                "id": "7eyuQZCLG5tdjWpKZbDE8g",
+                "release_date": "2012-06-12",
+                "total_tracks": 18
+            },
+            {
+                "name": "Versus",
+                "id": "6bnDvfVdO3LarvcpWEzmeD",
+                "release_date": "2010-08-24",
+                "total_tracks": 9
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Yeah! (feat. Lil Jon & Ludacris)",
+                "duration_min_sec": "04:10",
+                "BPM": 105.018,
+                "mode": "major"
+            },
+            {
+                "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+                "duration_min_sec": "03:40",
+                "BPM": 119.963,
+                "mode": "minor"
+            },
+            {
+                "name": "Standing Next to You (Usher Remix)",
+                "duration_min_sec": "03:34",
+                "BPM": 105.993,
+                "mode": "minor"
+            },
+            {
+                "name": "My Boo",
+                "duration_min_sec": "03:43",
+                "BPM": 86.412,
+                "mode": "major"
+            },
+            {
+                "name": "Hey Daddy (Daddy's Home)",
+                "duration_min_sec": "03:44",
+                "BPM": 95.975,
+                "mode": "major"
+            },
+            {
+                "name": "Good Good",
+                "duration_min_sec": "04:07",
+                "BPM": 140.991,
+                "mode": "minor"
+            },
+            {
+                "name": "U Remind Me",
+                "duration_min_sec": "04:26",
+                "BPM": 93.985,
+                "mode": "major"
+            },
+            {
+                "name": "Love in This Club (feat. Young Jeezy)",
+                "duration_min_sec": "04:19",
+                "BPM": 140.012,
+                "mode": "major"
+            },
+            {
+                "name": "Burn",
+                "duration_min_sec": "03:51",
+                "BPM": 119.928,
+                "mode": "major"
+            },
+            {
+                "name": "OMG (feat. will.i.am)",
+                "duration_min_sec": "04:29",
+                "BPM": 129.998,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": [
+            "Nothing but the Beat (Ultimate Edition)",
+            "Over It",
+            "F\u00f3rmula Vol. 1 (Deluxe Edition)",
+            "X (Expanded Edition)",
+            "Paper Trail"
+        ]
+    },
+    {
+        "name": "Ed Sheeran",
+        "genres": [
+            "pop",
+            "singer-songwriter pop",
+            "uk pop"
+        ],
+        "popularity": 88,
+        "top_albums": [
+            {
+                "name": "Autumn Variations (Fan Living Room Sessions)",
+                "id": "5bLE2kmkZWlzAYeb6To6LA",
+                "release_date": "2023-10-02",
+                "total_tracks": 28
+            },
+            {
+                "name": "Autumn Variations",
+                "id": "5LXOgcszGvUkYzYL4v6wYg",
+                "release_date": "2023-09-29",
+                "total_tracks": 14
+            },
+            {
+                "name": "- (Deluxe)",
+                "id": "2WFFcvzM0CgLaSq4MSkyZk",
+                "release_date": "2023-05-05",
+                "total_tracks": 18
+            },
+            {
+                "name": "= (Tour Edition)",
+                "id": "2CIOGAByaHyjQ1EO55JSzC",
+                "release_date": "2022-05-27",
+                "total_tracks": 23
+            },
+            {
+                "name": "=",
+                "id": "32iAEBstCjauDhyKpGjTuq",
+                "release_date": "2021-10-29",
+                "total_tracks": 14
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Merry Christmas",
+                "duration_min_sec": "03:28",
+                "BPM": 113.99,
+                "mode": "major"
+            },
+            {
+                "name": "Perfect",
+                "duration_min_sec": "04:23",
+                "BPM": 95.05,
+                "mode": "major"
+            },
+            {
+                "name": "Shape of You",
+                "duration_min_sec": "03:53",
+                "BPM": 95.977,
+                "mode": "minor"
+            },
+            {
+                "name": "Photograph",
+                "duration_min_sec": "04:18",
+                "BPM": 107.989,
+                "mode": "major"
+            },
+            {
+                "name": "Shivers",
+                "duration_min_sec": "03:27",
+                "BPM": 141.02,
+                "mode": "major"
+            },
+            {
+                "name": "Thinking out Loud",
+                "duration_min_sec": "04:41",
+                "BPM": 78.998,
+                "mode": "major"
+            },
+            {
+                "name": "Bad Habits",
+                "duration_min_sec": "03:50",
+                "BPM": 126.011,
+                "mode": "minor"
+            },
+            {
+                "name": "Eyes Closed",
+                "duration_min_sec": "03:14",
+                "BPM": 107.071,
+                "mode": "major"
+            },
+            {
+                "name": "Bam Bam (feat. Ed Sheeran)",
+                "duration_min_sec": "03:26",
+                "BPM": 94.996,
+                "mode": "major"
+            },
+            {
+                "name": "Castle on the Hill",
+                "duration_min_sec": "04:21",
+                "BPM": 135.007,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "reputation",
+            "Red (Taylor's Version)",
+            "100 Greatest Christmas Songs Ever",
+            "Music To Be Murdered By",
+            "Love, Damini"
+        ]
+    },
+    {
+        "name": "Laufey",
+        "genres": [
+            "gen z singer-songwriter"
+        ],
+        "popularity": 80,
+        "top_albums": [
+            {
+                "name": "Bewitched",
+                "id": "1rpCHilZQkw84A3Y9czvMO",
+                "release_date": "2023-09-08",
+                "total_tracks": 14
+            },
+            {
+                "name": "A Night At The Symphony",
+                "id": "0ONGXnqkOl98GYJy619wqn",
+                "release_date": "2023-03-02",
+                "total_tracks": 14
+            },
+            {
+                "name": "Everything I Know About Love",
+                "id": "777K2ytcKbDsX0AZ2y8CBS",
+                "release_date": "2022-10-14",
+                "total_tracks": 16
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Winter Wonderland - Spotify Singles Holiday",
+                "duration_min_sec": "02:12",
+                "BPM": 127.617,
+                "mode": "major"
+            },
+            {
+                "name": "From The Start",
+                "duration_min_sec": "02:49",
+                "BPM": 80.994,
+                "mode": "major"
+            },
+            {
+                "name": "Falling Behind",
+                "duration_min_sec": "02:53",
+                "BPM": 165.888,
+                "mode": "major"
+            },
+            {
+                "name": "Let You Break My Heart Again",
+                "duration_min_sec": "04:29",
+                "BPM": 76.748,
+                "mode": "major"
+            },
+            {
+                "name": "A Night To Remember",
+                "duration_min_sec": "03:53",
+                "BPM": 114.99,
+                "mode": "minor"
+            },
+            {
+                "name": "Valentine",
+                "duration_min_sec": "02:48",
+                "BPM": 82.51,
+                "mode": "major"
+            },
+            {
+                "name": "Promise",
+                "duration_min_sec": "03:54",
+                "BPM": 76.244,
+                "mode": "major"
+            },
+            {
+                "name": "Love to Keep Me Warm",
+                "duration_min_sec": "02:38",
+                "BPM": 139.928,
+                "mode": "major"
+            },
+            {
+                "name": "Lovesick",
+                "duration_min_sec": "03:45",
+                "BPM": 104.973,
+                "mode": "major"
+            },
+            {
+                "name": "I Wish You Love",
+                "duration_min_sec": "02:35",
+                "BPM": 108.066,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "Petals to Thorns",
+            "Angel Face",
+            "Weihnachtsplaylist 2023",
+            "Winter 2023 | De Beste Songs Voor De Koude Dagen",
+            "Autumn 2023 | Pumpkin Spice Season"
+        ]
+    },
+    {
+        "name": "Brent Faiyaz",
+        "genres": [
+            "r&b",
+            "rap"
+        ],
+        "popularity": 83,
+        "top_albums": [
+            {
+                "name": "LARGER THAN LIFE (CHOPPED NOT SLOPPED)",
+                "id": "6UIiIDQRhUcdGYUB6CbTZV",
+                "release_date": "2023-12-15",
+                "total_tracks": 14
+            },
+            {
+                "name": "Larger Than Life",
+                "id": "26rTTXIEtEeSTan28AiLaV",
+                "release_date": "2023-10-27",
+                "total_tracks": 14
+            },
+            {
+                "name": "WASTELAND - CHOPPED NOT SLOPPED",
+                "id": "3DpamulE7VP1pDprRODb28",
+                "release_date": "2023-05-05",
+                "total_tracks": 17
+            },
+            {
+                "name": "WASTELAND",
+                "id": "0PHMNbcgHfzSUALlfk7wGg",
+                "release_date": "2022-07-08",
+                "total_tracks": 19
+            },
+            {
+                "name": "Fuck The World",
+                "id": "3vi20DRHkqv4HyVg9Rt9wC",
+                "release_date": "2020-02-07",
+                "total_tracks": 10
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Clouded",
+                "duration_min_sec": "01:50",
+                "BPM": 65.203,
+                "mode": "major"
+            },
+            {
+                "name": "Trust",
+                "duration_min_sec": "02:38",
+                "BPM": 92.009,
+                "mode": "major"
+            },
+            {
+                "name": "Poison",
+                "duration_min_sec": "03:32",
+                "BPM": 117.489,
+                "mode": "minor"
+            },
+            {
+                "name": "Been Away",
+                "duration_min_sec": "03:43",
+                "BPM": 132.798,
+                "mode": "major"
+            },
+            {
+                "name": "ALL MINE",
+                "duration_min_sec": "03:36",
+                "BPM": 141.967,
+                "mode": "major"
+            },
+            {
+                "name": "JACKIE BROWN",
+                "duration_min_sec": "02:49",
+                "BPM": 137.66,
+                "mode": "major"
+            },
+            {
+                "name": "Best Time",
+                "duration_min_sec": "01:22",
+                "BPM": 92.995,
+                "mode": "major"
+            },
+            {
+                "name": "DEAD MAN WALKING",
+                "duration_min_sec": "04:07",
+                "BPM": 143.984,
+                "mode": "minor"
+            },
+            {
+                "name": "ROLE MODEL",
+                "duration_min_sec": "03:14",
+                "BPM": 90.104,
+                "mode": "minor"
+            },
+            {
+                "name": "Rehab (Winter In Paris)",
+                "duration_min_sec": "03:00",
+                "BPM": 144.211,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "Death Race For Love (Bonus Track Version)",
+            "CALL ME IF YOU GET LOST",
+            "CALL ME IF YOU GET LOST: The Estate Sale",
+            "Love Sick",
+            "The Melodic Blue (Deluxe)"
+        ]
+    },
+    {
+        "name": "Noah Kahan",
+        "genres": [
+            "pov: indie"
+        ],
+        "popularity": 84,
+        "top_albums": [
+            {
+                "name": "Stick Season (We'll All Be Here Forever)",
+                "id": "1pb3je8gXTs5dpRRTKhHRC",
+                "release_date": "2023-06-09",
+                "total_tracks": 21
+            },
+            {
+                "name": "Stick Season",
+                "id": "50ZenUP4O2Q5eCy2NRNvuz",
+                "release_date": "2022-10-14",
+                "total_tracks": 14
+            },
+            {
+                "name": "I Was / I Am",
+                "id": "0b693AisoJYg4Ilj10LkYG",
+                "release_date": "2021-09-17",
+                "total_tracks": 10
+            },
+            {
+                "name": "Busyhead",
+                "id": "3DNQrMjvVGiueVrj1qquJd",
+                "release_date": "2019-06-14",
+                "total_tracks": 10
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Stick Season",
+                "duration_min_sec": "03:02",
+                "BPM": 117.896,
+                "mode": "major"
+            },
+            {
+                "name": "Dial Drunk (with Post Malone)",
+                "duration_min_sec": "03:33",
+                "BPM": 112.108,
+                "mode": "major"
+            },
+            {
+                "name": "Northern Attitude (with Hozier)",
+                "duration_min_sec": "04:27",
+                "BPM": 121.861,
+                "mode": "major"
+            },
+            {
+                "name": "You\u2019re Gonna Go Far",
+                "duration_min_sec": "04:46",
+                "BPM": 169.925,
+                "mode": "major"
+            },
+            {
+                "name": "Sarah's Place (feat. Noah Kahan)",
+                "duration_min_sec": "03:34",
+                "BPM": 151.566,
+                "mode": "major"
+            },
+            {
+                "name": "All My Love",
+                "duration_min_sec": "04:11",
+                "BPM": 116.002,
+                "mode": "major"
+            },
+            {
+                "name": "Dial Drunk",
+                "duration_min_sec": "03:33",
+                "BPM": 112.083,
+                "mode": "major"
+            },
+            {
+                "name": "Homesick",
+                "duration_min_sec": "03:14",
+                "BPM": 170.076,
+                "mode": "major"
+            },
+            {
+                "name": "Everywhere, Everything (with Gracie Abrams)",
+                "duration_min_sec": "04:17",
+                "BPM": 179.664,
+                "mode": "major"
+            },
+            {
+                "name": "Northern Attitude",
+                "duration_min_sec": "04:27",
+                "BPM": 121.291,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "Boys Of Faith",
+            "Top Hits 2023",
+            "Gravity",
+            "\u604b\u3057\u305f\u304f\u306a\u308b\u30e9\u30d6\u30bd\u30f3\u30b0",
+            "From Michigan With Love"
+        ]
+    },
+    {
+        "name": "Travis Scott",
+        "genres": [
+            "hip hop",
+            "rap",
+            "slap house"
+        ],
+        "popularity": 91,
+        "top_albums": [
+            {
+                "name": "UTOPIA",
+                "id": "18NOKLkZETa4sWwLMIm0UZ",
+                "release_date": "2023-07-28",
+                "total_tracks": 19
+            },
+            {
+                "name": "JACKBOYS",
+                "id": "1Sf8GsXG32t0jNrX11xqWx",
+                "release_date": "2019-12-27",
+                "total_tracks": 7
+            },
+            {
+                "name": "ASTROWORLD",
+                "id": "41GuZcammIkupMPKH2OJ6I",
+                "release_date": "2018-08-03",
+                "total_tracks": 17
+            },
+            {
+                "name": "Huncho Jack, Jack Huncho",
+                "id": "6FED8aeieEnUWwQqAO9zT1",
+                "release_date": "2017-12-21",
+                "total_tracks": 13
+            },
+            {
+                "name": "Birds In The Trap Sing McKnight",
+                "id": "42WVQWuf1teDysXiOupIZt",
+                "release_date": "2016-09-16",
+                "total_tracks": 14
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Water - Remix",
+                "duration_min_sec": "03:20",
+                "BPM": 117.03,
+                "mode": "major"
+            },
+            {
+                "name": "I KNOW ?",
+                "duration_min_sec": "03:31",
+                "BPM": 117.995,
+                "mode": "minor"
+            },
+            {
+                "name": "FE!N (feat. Playboi Carti)",
+                "duration_min_sec": "03:11",
+                "BPM": 148.038,
+                "mode": "minor"
+            },
+            {
+                "name": "Trance (with Travis Scott & Young Thug)",
+                "duration_min_sec": "03:14",
+                "BPM": 119.476,
+                "mode": "minor"
+            },
+            {
+                "name": "goosebumps",
+                "duration_min_sec": "04:03",
+                "BPM": 130.049,
+                "mode": "major"
+            },
+            {
+                "name": "MY EYES",
+                "duration_min_sec": "04:11",
+                "BPM": 119.043,
+                "mode": "minor"
+            },
+            {
+                "name": "MELTDOWN (feat. Drake)",
+                "duration_min_sec": "04:06",
+                "BPM": 111.975,
+                "mode": "minor"
+            },
+            {
+                "name": "SICKO MODE",
+                "duration_min_sec": "05:12",
+                "BPM": 155.008,
+                "mode": "major"
+            },
+            {
+                "name": "TELEKINESIS (feat. SZA & Future)",
+                "duration_min_sec": "05:53",
+                "BPM": 82.826,
+                "mode": "minor"
+            },
+            {
+                "name": "Fair Trade (with Travis Scott)",
+                "duration_min_sec": "04:51",
+                "BPM": 167.937,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "SOS",
+            "HEROES & VILLAINS",
+            "Hollywood's Bleeding",
+            "Certified Lover Boy",
+            "Her Loss"
+        ]
+    },
+    {
+        "name": "The Weeknd",
+        "genres": [
+            "canadian contemporary r&b",
+            "canadian pop",
+            "pop"
+        ],
+        "popularity": 94,
+        "top_albums": [
+            {
+                "name": "Starboy (Deluxe)",
+                "id": "35dut3ICqF3NEDkjxfzJJ1",
+                "release_date": "2023-03-14",
+                "total_tracks": 21
+            },
+            {
+                "name": "Live At SoFi Stadium",
+                "id": "1OARrXe5sB0gyy3MhQ8h92",
+                "release_date": "2023-03-03",
+                "total_tracks": 31
+            },
+            {
+                "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
+                "id": "4M2Mf4pmARKGVT9MLCe3HA",
+                "release_date": "2022-12-15",
+                "total_tracks": 22
+            },
+            {
+                "name": "Dawn FM (Alternate World)",
+                "id": "12INlMsFtBjyehNnawBv36",
+                "release_date": "2022-01-07",
+                "total_tracks": 24
+            },
+            {
+                "name": "Dawn FM",
+                "id": "2nLOHgzXzwFEpl62zAgCEC",
+                "release_date": "2022-01-06",
+                "total_tracks": 16
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+                "duration_min_sec": "04:04",
+                "BPM": 84.828,
+                "mode": "major"
+            },
+            {
+                "name": "Starboy",
+                "duration_min_sec": "03:50",
+                "BPM": 186.003,
+                "mode": "major"
+            },
+            {
+                "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
+                "duration_min_sec": "03:35",
+                "BPM": 99.022,
+                "mode": "major"
+            },
+            {
+                "name": "Die For You",
+                "duration_min_sec": "04:20",
+                "BPM": 133.629,
+                "mode": "minor"
+            },
+            {
+                "name": "Blinding Lights",
+                "duration_min_sec": "03:20",
+                "BPM": 171.001,
+                "mode": "major"
+            },
+            {
+                "name": "Creepin' (with The Weeknd & 21 Savage)",
+                "duration_min_sec": "03:41",
+                "BPM": 97.914,
+                "mode": "minor"
+            },
+            {
+                "name": "Save Your Tears",
+                "duration_min_sec": "03:35",
+                "BPM": 118.049,
+                "mode": "major"
+            },
+            {
+                "name": "Stargirl Interlude",
+                "duration_min_sec": "01:51",
+                "BPM": 89.965,
+                "mode": "minor"
+            },
+            {
+                "name": "Die For You (with Ariana Grande) - Remix",
+                "duration_min_sec": "03:52",
+                "BPM": 66.961,
+                "mode": "minor"
+            },
+            {
+                "name": "The Hills",
+                "duration_min_sec": "04:02",
+                "BPM": 113.003,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": [
+            "UTOPIA",
+            "HEROES & VILLAINS",
+            "Planet Her",
+            "Legends Never Die",
+            "Rodeo"
+        ]
+    },
+    {
+        "name": "SZA",
+        "genres": [
+            "pop",
+            "r&b",
+            "rap"
+        ],
+        "popularity": 88,
+        "top_albums": [
+            {
+                "name": "SOS",
+                "id": "07w0rG5TETcyihsEIZR3qG",
+                "release_date": "2022-12-09",
+                "total_tracks": 23
+            },
+            {
+                "name": "Ctrl (Deluxe)",
+                "id": "6FKP2O0oOvZlDkF0gyTjiJ",
+                "release_date": "2022-06-09",
+                "total_tracks": 21
+            },
+            {
+                "name": "Dear Evan Hansen (Original Motion Picture Soundtrack)",
+                "id": "0yURloAyqmXCjQ1rmX0ltA",
+                "release_date": "2021-09-24",
+                "total_tracks": 16
+            },
+            {
+                "name": "Black Panther The Album Music From And Inspired By",
+                "id": "3pLdWdkj83EYfDN6H2N8MR",
+                "release_date": "2018-02-09",
+                "total_tracks": 14
+            },
+            {
+                "name": "Ctrl",
+                "id": "76290XdXVF9rPzGdNRWdCh",
+                "release_date": "2017-06-09",
+                "total_tracks": 14
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Kill Bill",
+                "duration_min_sec": "02:33",
+                "BPM": 88.98,
+                "mode": "major"
+            },
+            {
+                "name": "Snooze",
+                "duration_min_sec": "03:21",
+                "BPM": 143.008,
+                "mode": "major"
+            },
+            {
+                "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+                "duration_min_sec": "05:19",
+                "BPM": 146.009,
+                "mode": "major"
+            },
+            {
+                "name": "TELEKINESIS (feat. SZA & Future)",
+                "duration_min_sec": "05:53",
+                "BPM": 82.826,
+                "mode": "minor"
+            },
+            {
+                "name": "All The Stars (with SZA)",
+                "duration_min_sec": "03:52",
+                "BPM": 96.782,
+                "mode": "major"
+            },
+            {
+                "name": "Good Days",
+                "duration_min_sec": "04:38",
+                "BPM": 121.07,
+                "mode": "minor"
+            },
+            {
+                "name": "Kiss Me More (feat. SZA)",
+                "duration_min_sec": "03:28",
+                "BPM": 110.97,
+                "mode": "major"
+            },
+            {
+                "name": "Slime You Out (feat. SZA)",
+                "duration_min_sec": "05:10",
+                "BPM": 88.88,
+                "mode": "minor"
+            },
+            {
+                "name": "Open Arms (feat. Travis Scott)",
+                "duration_min_sec": "03:59",
+                "BPM": 78.259,
+                "mode": "major"
+            },
+            {
+                "name": "Nobody Gets Me",
+                "duration_min_sec": "03:00",
+                "BPM": 99.796,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "UTOPIA",
+            "For All The Dogs",
+            "Hollywood's Bleeding",
+            "ANTI (Deluxe)",
+            "Planet Her"
+        ]
+    },
+    {
+        "name": "Nicki Minaj",
+        "genres": [
+            "hip pop",
+            "pop",
+            "queens hip hop",
+            "rap"
+        ],
+        "popularity": 88,
+        "top_albums": [
+            {
+                "name": "Pink Friday 2 (Gag City Deluxe)",
+                "id": "5eA2VJ0yeiU4kXz1zvuMro",
+                "release_date": "2023-12-15",
+                "total_tracks": 24
+            },
+            {
+                "name": "Pink Friday 2",
+                "id": "2bYCNZfxZrTUv1CHXkz2d2",
+                "release_date": "2023-12-08",
+                "total_tracks": 22
+            },
+            {
+                "name": "Queen Radio: Volume 1",
+                "id": "1epY9c6AGBfirYxDA9exOB",
+                "release_date": "2022-08-28",
+                "total_tracks": 31
+            },
+            {
+                "name": "Beam Me Up Scotty",
+                "id": "2upw5IrzeqKApIQZyx5o6r",
+                "release_date": "2021-05-14",
+                "total_tracks": 23
+            },
+            {
+                "name": "Queen (Deluxe)",
+                "id": "6zA5X3CQ5rgLKhTobyV5Id",
+                "release_date": "2018-11-29",
+                "total_tracks": 20
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "FTCU",
+                "duration_min_sec": "02:52",
+                "BPM": 144.978,
+                "mode": "major"
+            },
+            {
+                "name": "Everybody (feat. Lil Uzi Vert)",
+                "duration_min_sec": "03:00",
+                "BPM": 137.959,
+                "mode": "minor"
+            },
+            {
+                "name": "Beauty And A Beat",
+                "duration_min_sec": "03:46",
+                "BPM": 127.976,
+                "mode": "major"
+            },
+            {
+                "name": "Needle (feat. Drake)",
+                "duration_min_sec": "03:55",
+                "BPM": 109.997,
+                "mode": "major"
+            },
+            {
+                "name": "Barbie World (with Aqua) [From Barbie The Album]",
+                "duration_min_sec": "01:49",
+                "BPM": 144.072,
+                "mode": "major"
+            },
+            {
+                "name": "Starships",
+                "duration_min_sec": "03:30",
+                "BPM": 125.006,
+                "mode": "minor"
+            },
+            {
+                "name": "Super Freaky Girl",
+                "duration_min_sec": "02:50",
+                "BPM": 133.014,
+                "mode": "major"
+            },
+            {
+                "name": "Super Bass",
+                "duration_min_sec": "03:20",
+                "BPM": 126.979,
+                "mode": "major"
+            },
+            {
+                "name": "Pink Friday Girls",
+                "duration_min_sec": "02:46",
+                "BPM": 127.014,
+                "mode": "major"
+            },
+            {
+                "name": "Bang Bang",
+                "duration_min_sec": "03:19",
+                "BPM": 150.028,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": [
+            "My Beautiful Dark Twisted Fantasy",
+            "beerbongs & bentleys",
+            "Die Lit",
+            "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+            "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+        ]
+    },
+    {
+        "name": "Frank Ocean",
+        "genres": [
+            "lgbtq+ hip hop",
+            "neo soul"
+        ],
+        "popularity": 83,
+        "top_albums": [
+            {
+                "name": "Blonde",
+                "id": "3mH6qwIy9crq0I9YQbOuDf",
+                "release_date": "2016-08-20",
+                "total_tracks": 17
+            },
+            {
+                "name": "channel ORANGE",
+                "id": "392p3shh2jkxUxY2VHvlH8",
+                "release_date": "2012-07-10",
+                "total_tracks": 17
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Pink + White",
+                "duration_min_sec": "03:04",
+                "BPM": 159.94,
+                "mode": "major"
+            },
+            {
+                "name": "Lost",
+                "duration_min_sec": "03:54",
+                "BPM": 123.061,
+                "mode": "major"
+            },
+            {
+                "name": "Thinkin Bout You",
+                "duration_min_sec": "03:20",
+                "BPM": 129.83,
+                "mode": "major"
+            },
+            {
+                "name": "Novacane",
+                "duration_min_sec": "05:02",
+                "BPM": 93.51,
+                "mode": "major"
+            },
+            {
+                "name": "Ivy",
+                "duration_min_sec": "04:09",
+                "BPM": 116.408,
+                "mode": "minor"
+            },
+            {
+                "name": "White Ferrari",
+                "duration_min_sec": "04:08",
+                "BPM": 108.741,
+                "mode": "major"
+            },
+            {
+                "name": "Nights",
+                "duration_min_sec": "05:07",
+                "BPM": 89.87,
+                "mode": "minor"
+            },
+            {
+                "name": "Pyramids",
+                "duration_min_sec": "09:52",
+                "BPM": 107.989,
+                "mode": "minor"
+            },
+            {
+                "name": "Chanel",
+                "duration_min_sec": "03:30",
+                "BPM": 110.134,
+                "mode": "minor"
+            },
+            {
+                "name": "In My Room",
+                "duration_min_sec": "02:13",
+                "BPM": 158.037,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "Flower Boy",
+            "Watch The Throne",
+            "BEYONC\u00c9 [Platinum Edition]",
+            "TESTING",
+            "Funk Wav Bounces Vol.1"
+        ]
+    },
+    {
+        "name": "Jordan Ward",
+        "genres": [
+            "indie hip hop",
+            "indie r&b"
+        ],
+        "popularity": 59,
+        "top_albums": [
+            {
+                "name": "moreward(FORWARD)",
+                "id": "4dz4CiyJKCoHWyA7MuHbBx",
+                "release_date": "2023-08-25",
+                "total_tracks": 17
+            },
+            {
+                "name": "FORWARD",
+                "id": "367frJ4GG9UMlXlMrVanYL",
+                "release_date": "2023-03-03",
+                "total_tracks": 14
+            },
+            {
+                "name": "Valley Hopefuls",
+                "id": "1n6ULeNHEteS5eucGgsUSp",
+                "release_date": "2019-06-07",
+                "total_tracks": 12
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "FAMJAM4000",
+                "duration_min_sec": "02:38",
+                "BPM": 116.563,
+                "mode": "minor"
+            },
+            {
+                "name": "WHITE CROCS (with Ryan Trey)",
+                "duration_min_sec": "02:27",
+                "BPM": 92.032,
+                "mode": "major"
+            },
+            {
+                "name": "Lil Baby Crush",
+                "duration_min_sec": "02:21",
+                "BPM": 136.891,
+                "mode": "minor"
+            },
+            {
+                "name": "IDC (with Joony)",
+                "duration_min_sec": "01:50",
+                "BPM": 120.039,
+                "mode": "minor"
+            },
+            {
+                "name": "MUSTARD (with 6LACK)",
+                "duration_min_sec": "03:21",
+                "BPM": 118.934,
+                "mode": "minor"
+            },
+            {
+                "name": "CHERIMOYA - BONUS",
+                "duration_min_sec": "02:09",
+                "BPM": 84.984,
+                "mode": "minor"
+            },
+            {
+                "name": "SIDEKICK (with Joyce Wrice) - BONUS",
+                "duration_min_sec": "02:14",
+                "BPM": 107.43,
+                "mode": "minor"
+            },
+            {
+                "name": "Okok (Hibachi)",
+                "duration_min_sec": "02:13",
+                "BPM": 144.202,
+                "mode": "major"
+            },
+            {
+                "name": "Used To (feat. Jordan Ward)",
+                "duration_min_sec": "03:05",
+                "BPM": 72.791,
+                "mode": "major"
+            },
+            {
+                "name": "311 (with Gwen Bunn)",
+                "duration_min_sec": "02:31",
+                "BPM": 88.992,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": [
+            "The Night Shift",
+            "SUBMISSIVE",
+            "Take What You Need",
+            "Minus The Bullshit Life's Great",
+            "Used To"
+        ]
+    },
+    {
+        "name": "Tame Impala",
+        "genres": [
+            "australian psych",
+            "modern rock",
+            "neo-psychedelic",
+            "rock"
+        ],
+        "popularity": 78,
+        "top_albums": [
+            {
+                "name": "The Slow Rush",
+                "id": "31qVWUdRrlb8thMvts0yYL",
+                "release_date": "2020-02-14",
+                "total_tracks": 12
+            },
+            {
+                "name": "Currents",
+                "id": "79dL7FLiJFOO0EoehUHQBv",
+                "release_date": "2015-07-17",
+                "total_tracks": 13
+            },
+            {
+                "name": "Live Versions",
+                "id": "44RrnCW7pMIEiiAR3LIAVL",
+                "release_date": "2014-05-16",
+                "total_tracks": 9
+            },
+            {
+                "name": "Lonerism",
+                "id": "3C2MFZ2iHotUQOSBzdSvM7",
+                "release_date": "2012-01-01",
+                "total_tracks": 12
+            },
+            {
+                "name": "InnerSpeaker",
+                "id": "1DNSmmRLfv97Yjq7MTFWng",
+                "release_date": "2010-05-21",
+                "total_tracks": 11
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "The Less I Know The Better",
+                "duration_min_sec": "03:36",
+                "BPM": 116.879,
+                "mode": "major"
+            },
+            {
+                "name": "Borderline",
+                "duration_min_sec": "03:57",
+                "BPM": 97.96,
+                "mode": "minor"
+            },
+            {
+                "name": "New Person, Same Old Mistakes",
+                "duration_min_sec": "06:03",
+                "BPM": 151.836,
+                "mode": "major"
+            },
+            {
+                "name": "Let It Happen",
+                "duration_min_sec": "07:47",
+                "BPM": 125.012,
+                "mode": "minor"
+            },
+            {
+                "name": "Eventually",
+                "duration_min_sec": "05:18",
+                "BPM": 77.935,
+                "mode": "minor"
+            },
+            {
+                "name": "Feels Like We Only Go Backwards",
+                "duration_min_sec": "03:12",
+                "BPM": 149.508,
+                "mode": "minor"
+            },
+            {
+                "name": "Nangs",
+                "duration_min_sec": "01:47",
+                "BPM": 167.608,
+                "mode": "major"
+            },
+            {
+                "name": "One More Hour",
+                "duration_min_sec": "07:12",
+                "BPM": 102.029,
+                "mode": "major"
+            },
+            {
+                "name": "Elephant",
+                "duration_min_sec": "03:31",
+                "BPM": 123.075,
+                "mode": "minor"
+            },
+            {
+                "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+                "duration_min_sec": "03:35",
+                "BPM": 108.014,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": [
+            "Barbie The Album",
+            "Cracker Island",
+            "Cracker Island (Deluxe)",
+            "Rogue Waves",
+            "Bebey"
+        ]
+    },
+    {
+        "name": "Sukha",
+        "genres": [
+            "punjabi pop"
+        ],
+        "popularity": 62,
+        "top_albums": [],
+        "top_tracks": [
+            {
+                "name": "8 ASLE",
+                "duration_min_sec": "02:41",
+                "BPM": 100.042,
+                "mode": "minor"
+            },
+            {
+                "name": "Attraction",
+                "duration_min_sec": "03:03",
+                "BPM": 91.08,
+                "mode": "minor"
+            },
+            {
+                "name": "SWITCHIN' LANES",
+                "duration_min_sec": "02:12",
+                "BPM": 97.989,
+                "mode": "major"
+            },
+            {
+                "name": "GODFATHER",
+                "duration_min_sec": "02:00",
+                "BPM": 96.09,
+                "mode": "minor"
+            },
+            {
+                "name": "TERE BINA",
+                "duration_min_sec": "02:16",
+                "BPM": 94.137,
+                "mode": "minor"
+            },
+            {
+                "name": "ARMED",
+                "duration_min_sec": "02:04",
+                "BPM": 96.943,
+                "mode": "major"
+            },
+            {
+                "name": "21 QUESTIONS",
+                "duration_min_sec": "02:42",
+                "BPM": 85.603,
+                "mode": "minor"
+            },
+            {
+                "name": "ROLL WITH ME",
+                "duration_min_sec": "02:17",
+                "BPM": 83.757,
+                "mode": "minor"
+            },
+            {
+                "name": "TROUBLESOME",
+                "duration_min_sec": "02:40",
+                "BPM": 102.014,
+                "mode": "major"
+            },
+            {
+                "name": "Slowly",
+                "duration_min_sec": "02:26",
+                "BPM": 101.725,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": []
+    },
+    {
+        "name": "Erykah Badu",
+        "genres": [
+            "afrofuturism",
+            "alternative r&b",
+            "neo soul",
+            "r&b"
+        ],
+        "popularity": 66,
+        "top_albums": [
+            {
+                "name": "But You Caint Use My Phone (Mixtape)",
+                "id": "2gc9WOWqVRrGUENUjozcpY",
+                "release_date": "2015-11-27",
+                "total_tracks": 11
+            },
+            {
+                "name": "New Amerykah Part Two: Return Of The Ankh",
+                "id": "1MOub955Uer957RVqqkF2a",
+                "release_date": "2010-03-30",
+                "total_tracks": 11
+            },
+            {
+                "name": "New Amerykah Part One (4th World War)",
+                "id": "2cimRuhfNJk2k8dmnwnh2d",
+                "release_date": "2007-02-26",
+                "total_tracks": 11
+            },
+            {
+                "name": "Worldwide Underground",
+                "id": "1xeCT1UZTYtQoOPHemjqyY",
+                "release_date": "2003-09-01",
+                "total_tracks": 10
+            },
+            {
+                "name": "Mama's Gun",
+                "id": "3cADvHRdKniF9ELCn1zbGH",
+                "release_date": "2000-10-31",
+                "total_tracks": 14
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Didn't Cha Know",
+                "duration_min_sec": "03:58",
+                "BPM": 135.276,
+                "mode": "minor"
+            },
+            {
+                "name": "On & On",
+                "duration_min_sec": "03:46",
+                "BPM": 80.476,
+                "mode": "minor"
+            },
+            {
+                "name": "Next Lifetime",
+                "duration_min_sec": "06:26",
+                "BPM": 130.021,
+                "mode": "minor"
+            },
+            {
+                "name": "I'll Call U Back",
+                "duration_min_sec": "01:57",
+                "BPM": 135.009,
+                "mode": "minor"
+            },
+            {
+                "name": "Appletree",
+                "duration_min_sec": "04:25",
+                "BPM": 94.863,
+                "mode": "major"
+            },
+            {
+                "name": "Window Seat",
+                "duration_min_sec": "04:49",
+                "BPM": 82.193,
+                "mode": "minor"
+            },
+            {
+                "name": "Other Side Of The Game",
+                "duration_min_sec": "06:33",
+                "BPM": 83.056,
+                "mode": "minor"
+            },
+            {
+                "name": "Bag Lady",
+                "duration_min_sec": "05:48",
+                "BPM": 151.181,
+                "mode": "minor"
+            },
+            {
+                "name": "Green Eyes",
+                "duration_min_sec": "10:04",
+                "BPM": 61.349,
+                "mode": "minor"
+            },
+            {
+                "name": "...& On",
+                "duration_min_sec": "03:34",
+                "BPM": 83.417,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "Indigo",
+            "Stankonia",
+            "Wolf",
+            "Teflon Don",
+            "Things Fall Apart"
+        ]
+    },
+    {
+        "name": "Giveon",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 76,
+        "top_albums": [
+            {
+                "name": "Give Or Take",
+                "id": "64LkgCfNbLqjclQYCTid8L",
+                "release_date": "2022-06-24",
+                "total_tracks": 15
+            },
+            {
+                "name": "When It's All Said And Done... Take Time",
+                "id": "1otOJAtgvO5VCBL4Gykrrd",
+                "release_date": "2021-03-12",
+                "total_tracks": 13
+            },
+            {
+                "name": "TAKE TIME",
+                "id": "1zHR48K6XtWYm6bhrw4J6C",
+                "release_date": "2020-03-27",
+                "total_tracks": 8
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Heartbreak Anniversary",
+                "duration_min_sec": "03:18",
+                "BPM": 89.087,
+                "mode": "major"
+            },
+            {
+                "name": "Peaches (feat. Daniel Caesar & Giveon)",
+                "duration_min_sec": "03:18",
+                "BPM": 90.03,
+                "mode": "major"
+            },
+            {
+                "name": "Chicago Freestyle (feat. Giveon)",
+                "duration_min_sec": "03:40",
+                "BPM": 122.947,
+                "mode": "major"
+            },
+            {
+                "name": "Like I Want You",
+                "duration_min_sec": "04:20",
+                "BPM": 119.772,
+                "mode": "minor"
+            },
+            {
+                "name": "Lost Me",
+                "duration_min_sec": "03:00",
+                "BPM": 87.934,
+                "mode": "minor"
+            },
+            {
+                "name": "Stuck On You",
+                "duration_min_sec": "03:25",
+                "BPM": 158.053,
+                "mode": "major"
+            },
+            {
+                "name": "For Tonight",
+                "duration_min_sec": "03:12",
+                "BPM": 79.9,
+                "mode": "major"
+            },
+            {
+                "name": "All To Me",
+                "duration_min_sec": "02:07",
+                "BPM": 116.161,
+                "mode": "minor"
+            },
+            {
+                "name": "dec 11th",
+                "duration_min_sec": "01:13",
+                "BPM": 59.886,
+                "mode": "major"
+            },
+            {
+                "name": "Still Your Best",
+                "duration_min_sec": "02:57",
+                "BPM": 113.467,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": [
+            "Certified Lover Boy",
+            "Justice",
+            "Dark Lane Demo Tapes",
+            "Justice (The Complete Edition)",
+            "Justice (Triple Chucks Deluxe)"
+        ]
+    },
+    {
+        "name": "Snoh Aalegra",
+        "genres": [
+            "alternative r&b",
+            "scandinavian r&b",
+            "swedish soul"
+        ],
+        "popularity": 64,
+        "top_albums": [
+            {
+                "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+                "id": "57ttk3xzHMWLr6CGrEa8F3",
+                "release_date": "2021-07-09",
+                "total_tracks": 15
+            },
+            {
+                "name": "- Ugh, those feels again",
+                "id": "2OIMJ2Arm0dYpmWIfQOXTD",
+                "release_date": "2019-08-16",
+                "total_tracks": 14
+            },
+            {
+                "name": "FEELS",
+                "id": "6ptDNtROqkFn0kNvtMIIHz",
+                "release_date": "2017-10-20",
+                "total_tracks": 13
+            },
+            {
+                "name": "Don\u2019t Explain",
+                "id": "2yZlo1UzbQDfiokZooVfaF",
+                "release_date": "2016-04-08",
+                "total_tracks": 9
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "I Want You Around",
+                "duration_min_sec": "03:32",
+                "BPM": 168.005,
+                "mode": "major"
+            },
+            {
+                "name": "DO 4 LOVE",
+                "duration_min_sec": "03:09",
+                "BPM": 69.827,
+                "mode": "minor"
+            },
+            {
+                "name": "Law Of Attraction (feat. Snoh Aalegra)",
+                "duration_min_sec": "03:01",
+                "BPM": 102.78,
+                "mode": "major"
+            },
+            {
+                "name": "Nothing Burns Like The Cold",
+                "duration_min_sec": "03:29",
+                "BPM": 139.69,
+                "mode": "major"
+            },
+            {
+                "name": "Whoa",
+                "duration_min_sec": "03:19",
+                "BPM": 188.019,
+                "mode": "major"
+            },
+            {
+                "name": "Be My Summer",
+                "duration_min_sec": "03:06",
+                "BPM": 105.205,
+                "mode": "major"
+            },
+            {
+                "name": "Fool For You",
+                "duration_min_sec": "03:14",
+                "BPM": 149.746,
+                "mode": "major"
+            },
+            {
+                "name": "Find Someone Like You",
+                "duration_min_sec": "03:26",
+                "BPM": 84.803,
+                "mode": "minor"
+            },
+            {
+                "name": "DYING 4 YOUR LOVE",
+                "duration_min_sec": "03:24",
+                "BPM": 152.161,
+                "mode": "minor"
+            },
+            {
+                "name": "DO 4 LOVE - Black Coffee Remix",
+                "duration_min_sec": "03:44",
+                "BPM": 99.996,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": [
+            "When It's All Said And Done... Take Time",
+            "We're All Alone In This Together",
+            "ALICIA",
+            "Summertime '06",
+            "Everythings For Sale"
+        ]
+    },
+    {
+        "name": "Daniel Caesar",
+        "genres": [
+            "canadian contemporary r&b"
+        ],
+        "popularity": 80,
+        "top_albums": [
+            {
+                "name": "NEVER ENOUGH (Bonus Version)",
+                "id": "0qGQrHicD7qXuz5VMlDuCe",
+                "release_date": "2023-04-10",
+                "total_tracks": 18
+            },
+            {
+                "name": "NEVER ENOUGH",
+                "id": "2z9lM6LDS58F70IGyQ1XMK",
+                "release_date": "2023-04-07",
+                "total_tracks": 15
+            },
+            {
+                "name": "CASE STUDY 01",
+                "id": "4mvxoogQn8p84Wz17zTHnJ",
+                "release_date": "2019-06-28",
+                "total_tracks": 10
+            },
+            {
+                "name": "Freudian",
+                "id": "3xybjP7r2VsWzwvDQipdM0",
+                "release_date": "2017-08-25",
+                "total_tracks": 10
+            },
+            {
+                "name": "Pilgrim's Paradise",
+                "id": "4uP43hIpmEEDuW7aOfiU2C",
+                "release_date": "2015-11-12",
+                "total_tracks": 7
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Best Part (feat. H.E.R.)",
+                "duration_min_sec": "03:29",
+                "BPM": 75.24,
+                "mode": "major"
+            },
+            {
+                "name": "Get You (feat. Kali Uchis)",
+                "duration_min_sec": "04:38",
+                "BPM": 74.038,
+                "mode": "minor"
+            },
+            {
+                "name": "Always",
+                "duration_min_sec": "03:45",
+                "BPM": 135.86,
+                "mode": "major"
+            },
+            {
+                "name": "Peaches (feat. Daniel Caesar & Giveon)",
+                "duration_min_sec": "03:18",
+                "BPM": 90.03,
+                "mode": "major"
+            },
+            {
+                "name": "Japanese Denim",
+                "duration_min_sec": "04:30",
+                "BPM": 124.156,
+                "mode": "major"
+            },
+            {
+                "name": "Superpowers",
+                "duration_min_sec": "02:54",
+                "BPM": 106.626,
+                "mode": "major"
+            },
+            {
+                "name": "Loose",
+                "duration_min_sec": "03:05",
+                "BPM": 70.453,
+                "mode": "major"
+            },
+            {
+                "name": "CYANIDE",
+                "duration_min_sec": "03:14",
+                "BPM": 158.49,
+                "mode": "major"
+            },
+            {
+                "name": "Valentina",
+                "duration_min_sec": "02:34",
+                "BPM": 92.01,
+                "mode": "minor"
+            },
+            {
+                "name": "Let Me Go",
+                "duration_min_sec": "03:36",
+                "BPM": 152.88,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": [
+            "Justice",
+            "Ivory",
+            "Free Nationals",
+            "H.E.R.",
+            "Justice (The Complete Edition)"
+        ]
+    },
+    {
+        "name": "Omar Apollo",
+        "genres": [
+            "bedroom pop",
+            "bedroom soul"
+        ],
+        "popularity": 67,
+        "top_albums": [
+            {
+                "name": "Ivory (Marfil)",
+                "id": "3ZexesAv5PN4RPMiEkOEXC",
+                "release_date": "2022-08-12",
+                "total_tracks": 21
+            },
+            {
+                "name": "Ivory",
+                "id": "5z7TD11Qh81Gbf52hd5zAv",
+                "release_date": "2022-04-08",
+                "total_tracks": 16
+            },
+            {
+                "name": "Apolonio",
+                "id": "7HlxxaJOHK0ArY4Ae4Qfc7",
+                "release_date": "2020-10-16",
+                "total_tracks": 9
+            },
+            {
+                "name": "Friends",
+                "id": "1G3k89T6eKqTXU9qbDqmr6",
+                "release_date": "2019-04-10",
+                "total_tracks": 7
+            },
+            {
+                "name": "Stereo",
+                "id": "1DEqCWbOzKMhxRoTPz21Ht",
+                "release_date": "2018-05-30",
+                "total_tracks": 7
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+                "duration_min_sec": "03:36",
+                "BPM": 82.029,
+                "mode": "major"
+            },
+            {
+                "name": "Useless",
+                "duration_min_sec": "03:03",
+                "BPM": 89.895,
+                "mode": "major"
+            },
+            {
+                "name": "Invincible (feat. Daniel Caesar)",
+                "duration_min_sec": "03:36",
+                "BPM": 134.89,
+                "mode": "minor"
+            },
+            {
+                "name": "3 Boys",
+                "duration_min_sec": "03:29",
+                "BPM": 173.839,
+                "mode": "major"
+            },
+            {
+                "name": "Want U Around (feat. Ruel)",
+                "duration_min_sec": "04:07",
+                "BPM": 143.923,
+                "mode": "major"
+            },
+            {
+                "name": "Worth the Wait (feat. Omar Apollo)",
+                "duration_min_sec": "02:30",
+                "BPM": 77.959,
+                "mode": "major"
+            },
+            {
+                "name": "Endlessly",
+                "duration_min_sec": "02:34",
+                "BPM": 192.123,
+                "mode": "major"
+            },
+            {
+                "name": "Hey Boy (feat. Kali Uchis)",
+                "duration_min_sec": "01:42",
+                "BPM": 151.618,
+                "mode": "minor"
+            },
+            {
+                "name": "Ugotme",
+                "duration_min_sec": "02:07",
+                "BPM": 65.832,
+                "mode": "major"
+            },
+            {
+                "name": "Killing Me",
+                "duration_min_sec": "02:45",
+                "BPM": 84.004,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": [
+            "Red Moon In Venus",
+            "Nectar",
+            "El Madrile\u00f1o",
+            "NEVER ENOUGH (Bonus Version)",
+            "El Madrile\u00f1o (La Sobremesa)"
+        ]
+    },
+    {
+        "name": "Sonder",
+        "genres": [
+            "experimental r&b"
+        ],
+        "popularity": 70,
+        "top_albums": [
+            {
+                "name": "Into",
+                "id": "0AHaFhhNCg3u0j6EJ3NfP7",
+                "release_date": "2017-01-27",
+                "total_tracks": 7
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "What You Heard",
+                "duration_min_sec": "03:58",
+                "BPM": 137.134,
+                "mode": "minor"
+            },
+            {
+                "name": "One Night Only",
+                "duration_min_sec": "03:15",
+                "BPM": 119.99,
+                "mode": "major"
+            },
+            {
+                "name": "Too Fast",
+                "duration_min_sec": "04:55",
+                "BPM": 99.209,
+                "mode": "minor"
+            },
+            {
+                "name": "Mad Riches",
+                "duration_min_sec": "01:56",
+                "BPM": 77.873,
+                "mode": "minor"
+            },
+            {
+                "name": "Nobody But You",
+                "duration_min_sec": "03:33",
+                "BPM": 83.872,
+                "mode": "major"
+            },
+            {
+                "name": "Care",
+                "duration_min_sec": "02:44",
+                "BPM": 126.721,
+                "mode": "minor"
+            },
+            {
+                "name": "Indonesian Fantasies",
+                "duration_min_sec": "01:59",
+                "BPM": 91.018,
+                "mode": "minor"
+            },
+            {
+                "name": "Break You Off",
+                "duration_min_sec": "02:07",
+                "BPM": 105.002,
+                "mode": "major"
+            },
+            {
+                "name": "Searchin",
+                "duration_min_sec": "04:24",
+                "BPM": 103.994,
+                "mode": "minor"
+            },
+            {
+                "name": "Make Me Stay",
+                "duration_min_sec": "02:52",
+                "BPM": 122.033,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": []
+    },
+    {
+        "name": "XXXTENTACION",
+        "genres": [
+            "emo rap",
+            "miami hip hop",
+            "rap"
+        ],
+        "popularity": 85,
+        "top_albums": [
+            {
+                "name": "LOOK AT ME: THE ALBUM",
+                "id": "7vNqlfthayItIbI0Ssmfoa",
+                "release_date": "2022-06-10",
+                "total_tracks": 25
+            },
+            {
+                "name": "Bad Vibes Forever",
+                "id": "3hn46RDrEmoi4XhLjgdNjZ",
+                "release_date": "2019-12-06",
+                "total_tracks": 25
+            },
+            {
+                "name": "? (Deluxe)",
+                "id": "2c6s84YTwR9cfncPmB9fNW",
+                "release_date": "2019-09-06",
+                "total_tracks": 53
+            },
+            {
+                "name": "XXXTENTACION Presents: Members Only, Vol. 4",
+                "id": "4EeDFhIVRxOg4dx7ozSNXa",
+                "release_date": "2019-01-23",
+                "total_tracks": 24
+            },
+            {
+                "name": "SKINS",
+                "id": "1qsQOC4Jn0fnaUZLAbs4dz",
+                "release_date": "2018-12-07",
+                "total_tracks": 10
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Revenge",
+                "duration_min_sec": "02:00",
+                "BPM": 139.999,
+                "mode": "minor"
+            },
+            {
+                "name": "Hope",
+                "duration_min_sec": "01:50",
+                "BPM": 146.04,
+                "mode": "minor"
+            },
+            {
+                "name": "Fuck Love",
+                "duration_min_sec": "02:26",
+                "BPM": 131.036,
+                "mode": "minor"
+            },
+            {
+                "name": "Everybody Dies In Their Nightmares",
+                "duration_min_sec": "01:35",
+                "BPM": 129.953,
+                "mode": "minor"
+            },
+            {
+                "name": "Jocelyn Flores",
+                "duration_min_sec": "01:59",
+                "BPM": 134.021,
+                "mode": "minor"
+            },
+            {
+                "name": "Moonlight",
+                "duration_min_sec": "02:15",
+                "BPM": 128.009,
+                "mode": "minor"
+            },
+            {
+                "name": "SAD!",
+                "duration_min_sec": "02:46",
+                "BPM": 75.023,
+                "mode": "major"
+            },
+            {
+                "name": "Look At Me!",
+                "duration_min_sec": "02:06",
+                "BPM": 139.059,
+                "mode": "major"
+            },
+            {
+                "name": "Falling Down - Bonus Track",
+                "duration_min_sec": "03:16",
+                "BPM": 120.013,
+                "mode": "minor"
+            },
+            {
+                "name": "changes",
+                "duration_min_sec": "02:01",
+                "BPM": 64.934,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+            "Come Over When You're Sober, Pt. 2",
+            "Project Baby 2: All Grown Up",
+            "Tha Carter V",
+            "You Will Regret (Reloaded)"
+        ]
+    },
+    {
+        "name": "Steve Lacy",
+        "genres": [
+            "afrofuturism"
+        ],
+        "popularity": 80,
+        "top_albums": [
+            {
+                "name": "Gemini Rights",
+                "id": "3Ks0eeH0GWpY4AU20D5HPD",
+                "release_date": "2022-07-15",
+                "total_tracks": 10
+            },
+            {
+                "name": "The Lo-Fis",
+                "id": "6m5qlaMzLtNsQDj3DQY5ji",
+                "release_date": "2020-12-04",
+                "total_tracks": 15
+            },
+            {
+                "name": "Apollo XXI",
+                "id": "4hvsfS6cytmO16IfAptVA9",
+                "release_date": "2019-05-24",
+                "total_tracks": 12
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Dark Red",
+                "duration_min_sec": "02:53",
+                "BPM": 172.041,
+                "mode": "major"
+            },
+            {
+                "name": "Bad Habit",
+                "duration_min_sec": "03:52",
+                "BPM": 168.946,
+                "mode": "major"
+            },
+            {
+                "name": "Infrunami",
+                "duration_min_sec": "02:58",
+                "BPM": 97.012,
+                "mode": "major"
+            },
+            {
+                "name": "C U Girl",
+                "duration_min_sec": "02:09",
+                "BPM": 100.0,
+                "mode": "minor"
+            },
+            {
+                "name": "Some",
+                "duration_min_sec": "01:58",
+                "BPM": 104.01,
+                "mode": "major"
+            },
+            {
+                "name": "Uuuu",
+                "duration_min_sec": "01:30",
+                "BPM": 127.082,
+                "mode": "major"
+            },
+            {
+                "name": "Static",
+                "duration_min_sec": "02:36",
+                "BPM": 79.001,
+                "mode": "major"
+            },
+            {
+                "name": "When I",
+                "duration_min_sec": "01:00",
+                "BPM": 125.961,
+                "mode": "major"
+            },
+            {
+                "name": "N Side",
+                "duration_min_sec": "03:44",
+                "BPM": 119.946,
+                "mode": "minor"
+            },
+            {
+                "name": "Atomic Vomit",
+                "duration_min_sec": "01:30",
+                "BPM": 86.576,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "Flower Boy",
+            "Isolation",
+            "It Is What It Is",
+            "At What Cost",
+            "Negro Swan"
+        ]
+    },
+    {
+        "name": "Dave",
+        "genres": [
+            "uk hip hop"
+        ],
+        "popularity": 79,
+        "top_albums": [
+            {
+                "name": "We're All Alone In This Together",
+                "id": "6HwzIlrCDq3WF9vMq8meqG",
+                "release_date": "2021-07-22",
+                "total_tracks": 12
+            },
+            {
+                "name": "PSYCHODRAMA",
+                "id": "4GrFuXwRmEBJec22p58fsD",
+                "release_date": "2019-03-08",
+                "total_tracks": 11
+            },
+            {
+                "name": "Game Over",
+                "id": "5QsGJ1tErNh5aWxowJojom",
+                "release_date": "2017-11-03",
+                "total_tracks": 7
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Sprinter",
+                "duration_min_sec": "03:49",
+                "BPM": 139.057,
+                "mode": "major"
+            },
+            {
+                "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+                "duration_min_sec": "04:02",
+                "BPM": 103.7,
+                "mode": "minor"
+            },
+            {
+                "name": "Location (feat. Burna Boy)",
+                "duration_min_sec": "04:01",
+                "BPM": 109.979,
+                "mode": "minor"
+            },
+            {
+                "name": "Meridian",
+                "duration_min_sec": "04:15",
+                "BPM": 115.01,
+                "mode": "minor"
+            },
+            {
+                "name": "Starlight",
+                "duration_min_sec": "03:31",
+                "BPM": 124.026,
+                "mode": "minor"
+            },
+            {
+                "name": "UK Rap",
+                "duration_min_sec": "03:18",
+                "BPM": 140.065,
+                "mode": "major"
+            },
+            {
+                "name": "Cheat On Me (feat. Dave)",
+                "duration_min_sec": "03:42",
+                "BPM": 97.984,
+                "mode": "major"
+            },
+            {
+                "name": "Trojan Horse",
+                "duration_min_sec": "04:08",
+                "BPM": 138.193,
+                "mode": "major"
+            },
+            {
+                "name": "Incredible Sauce (feat. Dave)",
+                "duration_min_sec": "04:03",
+                "BPM": 129.965,
+                "mode": "major"
+            },
+            {
+                "name": "Clash (feat. Stormzy)",
+                "duration_min_sec": "04:11",
+                "BPM": 140.013,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "I Told Them...",
+            "No.6 Collaborations Project",
+            "PTSD",
+            "Zero Tolerance",
+            "Crop Circle"
+        ]
+    },
+    {
+        "name": "NAV",
+        "genres": [
+            "canadian hip hop",
+            "canadian trap",
+            "melodic rap",
+            "rap",
+            "trap"
+        ],
+        "popularity": 72,
+        "top_albums": [
+            {
+                "name": "Demons Protected By Angels (Bonus Version)",
+                "id": "5HcqNSBbTAzFtwccYuxiTf",
+                "release_date": "2022-09-14",
+                "total_tracks": 20
+            },
+            {
+                "name": "Demons Protected By Angels",
+                "id": "29NWnawJBetVB3lOM9Sbp6",
+                "release_date": "2022-09-09",
+                "total_tracks": 19
+            },
+            {
+                "name": "Emergency Tsunami (Bonus Version)",
+                "id": "5rWTCXmYHC6Zr8uZAGF9Cg",
+                "release_date": "2020-11-11",
+                "total_tracks": 16
+            },
+            {
+                "name": "Emergency Tsunami",
+                "id": "1tihFpzHHM9mDSoFbhMoZL",
+                "release_date": "2020-11-06",
+                "total_tracks": 14
+            },
+            {
+                "name": "Good Intentions (Brown Boy 2 Deluxe Version)",
+                "id": "2kx4l1OQNT2JXLld9HJDIh",
+                "release_date": "2020-05-11",
+                "total_tracks": 32
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+                "duration_min_sec": "03:39",
+                "BPM": 140.133,
+                "mode": "major"
+            },
+            {
+                "name": "Lemonade (feat. NAV)",
+                "duration_min_sec": "03:15",
+                "BPM": 140.042,
+                "mode": "minor"
+            },
+            {
+                "name": "Some Way",
+                "duration_min_sec": "02:59",
+                "BPM": 154.963,
+                "mode": "major"
+            },
+            {
+                "name": "Turks (with Gunna & ft. Travis Scott)",
+                "duration_min_sec": "02:41",
+                "BPM": 119.1,
+                "mode": "minor"
+            },
+            {
+                "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
+                "duration_min_sec": "03:05",
+                "BPM": 139.953,
+                "mode": "major"
+            },
+            {
+                "name": "Myself",
+                "duration_min_sec": "03:46",
+                "BPM": 80.027,
+                "mode": "minor"
+            },
+            {
+                "name": "Baller",
+                "duration_min_sec": "02:30",
+                "BPM": 141.02,
+                "mode": "major"
+            },
+            {
+                "name": "Champion (feat. Travis Scott)",
+                "duration_min_sec": "03:15",
+                "BPM": 162.006,
+                "mode": "minor"
+            },
+            {
+                "name": "Call Me",
+                "duration_min_sec": "03:35",
+                "BPM": 170.065,
+                "mode": "minor"
+            },
+            {
+                "name": "Wanted You (feat. Lil Uzi Vert)",
+                "duration_min_sec": "03:48",
+                "BPM": 146.924,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": [
+            "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "Drip Harder",
+            "Hoodie SZN",
+            "Virgo World",
+            "Perfect Ten"
+        ]
+    },
+    {
+        "name": "Bryson Tiller",
+        "genres": [
+            "kentucky hip hop",
+            "r&b",
+            "rap"
+        ],
+        "popularity": 78,
+        "top_albums": [
+            {
+                "name": "A Different Christmas",
+                "id": "52QMK9SFNjiuz3ipkuVVZu",
+                "release_date": "2021-11-19",
+                "total_tracks": 7
+            },
+            {
+                "name": "A N N I V E R S A R Y (Deluxe)",
+                "id": "272GPDEjWzJtyZfHDWFXBy",
+                "release_date": "2021-02-26",
+                "total_tracks": 15
+            },
+            {
+                "name": "A N N I V E R S A R Y",
+                "id": "5KpXxX7OUDXRs25qLyN8NA",
+                "release_date": "2020-10-02",
+                "total_tracks": 10
+            },
+            {
+                "name": "T R A P S O U L (Deluxe)",
+                "id": "54B6i7KlSGD9fAzKQB7n89",
+                "release_date": "2020-09-25",
+                "total_tracks": 18
+            },
+            {
+                "name": "True to Self",
+                "id": "7nn2Iaphg0Vc1NCGULkhVo",
+                "release_date": "2017-05-26",
+                "total_tracks": 19
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Don't",
+                "duration_min_sec": "03:18",
+                "BPM": 96.991,
+                "mode": "minor"
+            },
+            {
+                "name": "Exchange",
+                "duration_min_sec": "03:14",
+                "BPM": 160.108,
+                "mode": "major"
+            },
+            {
+                "name": "Right My Wrongs",
+                "duration_min_sec": "04:09",
+                "BPM": 132.609,
+                "mode": "major"
+            },
+            {
+                "name": "Playing Games (with Bryson Tiller) - Extended Version",
+                "duration_min_sec": "02:23",
+                "BPM": 115.918,
+                "mode": "minor"
+            },
+            {
+                "name": "Let Em' Know",
+                "duration_min_sec": "04:21",
+                "BPM": 110.551,
+                "mode": "major"
+            },
+            {
+                "name": "Sorrows",
+                "duration_min_sec": "03:13",
+                "BPM": 109.093,
+                "mode": "minor"
+            },
+            {
+                "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
+                "duration_min_sec": "01:30",
+                "BPM": 76.964,
+                "mode": "major"
+            },
+            {
+                "name": "THRU THE NIGHT (feat. Bryson Tiller)",
+                "duration_min_sec": "02:08",
+                "BPM": 124.003,
+                "mode": "minor"
+            },
+            {
+                "name": "Outta Time (feat. Drake)",
+                "duration_min_sec": "03:18",
+                "BPM": 92.819,
+                "mode": "minor"
+            },
+            {
+                "name": "Blame",
+                "duration_min_sec": "02:07",
+                "BPM": 114.975,
+                "mode": "minor"
+            }
+        ],
+        "appears_on": [
+            "Die Lit",
+            "Over It",
+            "Thats What They All Say",
+            "KHALED KHALED",
+            "I Used To Know Her"
+        ]
+    },
+    {
+        "name": "Brett Young",
+        "genres": [
+            "contemporary country",
+            "country",
+            "country road",
+            "modern country rock"
+        ],
+        "popularity": 64,
+        "top_albums": [
+            {
+                "name": "Across The Sheets",
+                "id": "7nWjFzbfY7W4FxTAzKfhMu",
+                "release_date": "2023-08-04",
+                "total_tracks": 8
+            },
+            {
+                "name": "Brett Young & Friends Sing The Christmas Classics",
+                "id": "0qWmDshW80OTUuipP3Wvla",
+                "release_date": "2021-10-22",
+                "total_tracks": 8
+            },
+            {
+                "name": "Weekends Look A Little Acoustic These Days",
+                "id": "4kVKg4LdknIwFgktCrYMy0",
+                "release_date": "2021-09-03",
+                "total_tracks": 7
+            },
+            {
+                "name": "Weekends Look A Little Different These Days (Big Machine Radio Release Special)",
+                "id": "2L7PqA5PHNpplw2FyeFtLu",
+                "release_date": "2021-06-04",
+                "total_tracks": 16
+            },
+            {
+                "name": "Weekends Look A Little Different These Days",
+                "id": "2JJ2v7A5nR6HaYxyO2T0PX",
+                "release_date": "2021-06-04",
+                "total_tracks": 8
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "In Case You Didn't Know",
+                "duration_min_sec": "03:44",
+                "BPM": 147.992,
+                "mode": "major"
+            },
+            {
+                "name": "Mercy",
+                "duration_min_sec": "03:37",
+                "BPM": 71.957,
+                "mode": "major"
+            },
+            {
+                "name": "Like I Loved You",
+                "duration_min_sec": "03:27",
+                "BPM": 76.025,
+                "mode": "major"
+            },
+            {
+                "name": "Dance With You",
+                "duration_min_sec": "03:04",
+                "BPM": 84.995,
+                "mode": "major"
+            },
+            {
+                "name": "Lady",
+                "duration_min_sec": "03:14",
+                "BPM": 170.015,
+                "mode": "major"
+            },
+            {
+                "name": "You Didn\u2019t",
+                "duration_min_sec": "03:45",
+                "BPM": 81.98,
+                "mode": "major"
+            },
+            {
+                "name": "Catch",
+                "duration_min_sec": "03:16",
+                "BPM": 156.036,
+                "mode": "major"
+            },
+            {
+                "name": "Never Til Now (feat. Brett Young)",
+                "duration_min_sec": "02:53",
+                "BPM": 77.063,
+                "mode": "major"
+            },
+            {
+                "name": "Sleep Without You",
+                "duration_min_sec": "03:07",
+                "BPM": 88.546,
+                "mode": "minor"
+            },
+            {
+                "name": "Here Tonight",
+                "duration_min_sec": "03:36",
+                "BPM": 96.002,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "Reboot",
+            "shot in the dark",
+            "Leave It Beautiful (Complete)",
+            "Chris Tomlin & Friends",
+            "One Night in Nashville"
+        ]
+    },
+    {
+        "name": "PARTYNEXTDOOR",
+        "genres": [
+            "r&b",
+            "rap",
+            "urban contemporary"
+        ],
+        "popularity": 78,
+        "top_albums": [
+            {
+                "name": "PARTYPACK",
+                "id": "1ZJpGFHYQSTDTIk6bzo5sh",
+                "release_date": "2020-10-16",
+                "total_tracks": 7
+            },
+            {
+                "name": "PARTYMOBILE (Chopped Not Slopped)",
+                "id": "7954tDYraStpAFjS8SdPfo",
+                "release_date": "2020-03-27",
+                "total_tracks": 30
+            },
+            {
+                "name": "PARTYMOBILE",
+                "id": "7z20vHCSgu68lplj1Q976a",
+                "release_date": "2020-03-27",
+                "total_tracks": 15
+            },
+            {
+                "name": "Seven Days",
+                "id": "5hGC6Zuhu4JaC0YXb8iejw",
+                "release_date": "2017-09-29",
+                "total_tracks": 7
+            },
+            {
+                "name": "COLOURS",
+                "id": "0318GAH0AN431KMF6jhFdz",
+                "release_date": "2017-06-02",
+                "total_tracks": 8
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Break from Toronto",
+                "duration_min_sec": "01:39",
+                "BPM": 117.067,
+                "mode": "major"
+            },
+            {
+                "name": "Belong to the City",
+                "duration_min_sec": "01:38",
+                "BPM": 88.198,
+                "mode": "minor"
+            },
+            {
+                "name": "Her Way",
+                "duration_min_sec": "03:36",
+                "BPM": 111.307,
+                "mode": "major"
+            },
+            {
+                "name": "Members Only (feat. PARTYNEXTDOOR)",
+                "duration_min_sec": "04:37",
+                "BPM": 91.998,
+                "mode": "minor"
+            },
+            {
+                "name": "Come and See Me (feat. Drake)",
+                "duration_min_sec": "03:55",
+                "BPM": 84.957,
+                "mode": "major"
+            },
+            {
+                "name": "Wus Good / Curious",
+                "duration_min_sec": "03:32",
+                "BPM": 82.836,
+                "mode": "major"
+            },
+            {
+                "name": "Recognize (feat. Drake)",
+                "duration_min_sec": "05:11",
+                "BPM": 119.513,
+                "mode": "major"
+            },
+            {
+                "name": "Excitement",
+                "duration_min_sec": "04:43",
+                "BPM": 121.967,
+                "mode": "minor"
+            },
+            {
+                "name": "PERSIAN RUGS",
+                "duration_min_sec": "02:54",
+                "BPM": 110.478,
+                "mode": "minor"
+            },
+            {
+                "name": "Just Might (with PARTYNEXTDOOR)",
+                "duration_min_sec": "03:25",
+                "BPM": 104.924,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "For All The Dogs",
+            "Views",
+            "More Life",
+            "For All The Dogs Scary Hours Edition",
+            "ye"
+        ]
+    },
+    {
+        "name": "Morgan Wallen",
+        "genres": [
+            "contemporary country"
+        ],
+        "popularity": 86,
+        "top_albums": [
+            {
+                "name": "One Thing At A Time",
+                "id": "6i7mF7whyRJuLJ4ogbH2wh",
+                "release_date": "2023-03-03",
+                "total_tracks": 36
+            },
+            {
+                "name": "Dangerous: The Double Album (Bonus)",
+                "id": "6LBPsXUjVuNe9ywLY4xgvX",
+                "release_date": "2021-01-29",
+                "total_tracks": 33
+            },
+            {
+                "name": "Dangerous: The Double Album",
+                "id": "6JlCkqkqobGirPsaleJpFr",
+                "release_date": "2021-01-08",
+                "total_tracks": 30
+            },
+            {
+                "name": "If I Know Me",
+                "id": "1IR2nlwX6YVTXXeu2qzoWO",
+                "release_date": "2018-04-27",
+                "total_tracks": 14
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "Last Night",
+                "duration_min_sec": "02:43",
+                "BPM": 203.812,
+                "mode": "major"
+            },
+            {
+                "name": "Thinkin\u2019 Bout Me",
+                "duration_min_sec": "02:57",
+                "BPM": 139.982,
+                "mode": "minor"
+            },
+            {
+                "name": "You Proof",
+                "duration_min_sec": "02:37",
+                "BPM": 119.706,
+                "mode": "major"
+            },
+            {
+                "name": "Wasted On You",
+                "duration_min_sec": "02:58",
+                "BPM": 196.0,
+                "mode": "minor"
+            },
+            {
+                "name": "Whiskey Glasses",
+                "duration_min_sec": "03:54",
+                "BPM": 149.959,
+                "mode": "major"
+            },
+            {
+                "name": "Chasin' You",
+                "duration_min_sec": "03:25",
+                "BPM": 97.074,
+                "mode": "major"
+            },
+            {
+                "name": "Cowgirls (feat. ERNEST)",
+                "duration_min_sec": "03:01",
+                "BPM": 172.037,
+                "mode": "major"
+            },
+            {
+                "name": "Thought You Should Know",
+                "duration_min_sec": "03:35",
+                "BPM": 139.995,
+                "mode": "major"
+            },
+            {
+                "name": "Man Made A Bar (feat. Eric Church)",
+                "duration_min_sec": "03:11",
+                "BPM": 148.006,
+                "mode": "major"
+            },
+            {
+                "name": "Heartless (feat. Morgan Wallen)",
+                "duration_min_sec": "02:49",
+                "BPM": 111.033,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "Almost Healed",
+            "the mockingbird & THE CROW",
+            "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+            "7220",
+            "HIXTAPE: Vol. 1"
+        ]
+    },
+    {
+        "name": "J. Cole",
+        "genres": [
+            "conscious hip hop",
+            "hip hop",
+            "north carolina hip hop",
+            "rap"
+        ],
+        "popularity": 86,
+        "top_albums": [
+            {
+                "name": "D-Day: A Gangsta Grillz Mixtape",
+                "id": "3tFjhFPqGhhLrCULnPu7Wy",
+                "release_date": "2022-03-31",
+                "total_tracks": 15
+            },
+            {
+                "name": "The Off-Season",
+                "id": "4JAvwK4APPArjIsOdGoJXX",
+                "release_date": "2021-05-14",
+                "total_tracks": 12
+            },
+            {
+                "name": "Revenge Of The Dreamers III: Director's Cut",
+                "id": "5PerfGh9Smd6XjwkxpmL4V",
+                "release_date": "2020-01-16",
+                "total_tracks": 30
+            },
+            {
+                "name": "Revenge Of The Dreamers III",
+                "id": "2n3quCZ0anEa46j2IveacI",
+                "release_date": "2019-07-05",
+                "total_tracks": 18
+            },
+            {
+                "name": "KOD",
+                "id": "4Wv5UAieM1LDEYVq5WmqDd",
+                "release_date": "2018-04-20",
+                "total_tracks": 12
+            }
+        ],
+        "top_tracks": [
+            {
+                "name": "First Person Shooter (feat. J. Cole)",
+                "duration_min_sec": "04:07",
+                "BPM": 163.997,
+                "mode": "minor"
+            },
+            {
+                "name": "No Role Modelz",
+                "duration_min_sec": "04:52",
+                "BPM": 100.028,
+                "mode": "minor"
+            },
+            {
+                "name": "Wet Dreamz",
+                "duration_min_sec": "03:59",
+                "BPM": 175.627,
+                "mode": "minor"
+            },
+            {
+                "name": "Work Out",
+                "duration_min_sec": "03:55",
+                "BPM": 93.004,
+                "mode": "major"
+            },
+            {
+                "name": "MIDDLE CHILD",
+                "duration_min_sec": "03:33",
+                "BPM": 123.984,
+                "mode": "major"
+            },
+            {
+                "name": "All My Life (feat. J. Cole)",
+                "duration_min_sec": "03:43",
+                "BPM": 142.974,
+                "mode": "major"
+            },
+            {
+                "name": "Power Trip (feat. Miguel)",
+                "duration_min_sec": "04:01",
+                "BPM": 99.992,
+                "mode": "major"
+            },
+            {
+                "name": "Let Me Calm Down (feat. J. Cole)",
+                "duration_min_sec": "04:04",
+                "BPM": 95.502,
+                "mode": "major"
+            },
+            {
+                "name": "m y . l i f e (with 21 Savage & Morray)",
+                "duration_min_sec": "03:38",
+                "BPM": 140.021,
+                "mode": "minor"
+            },
+            {
+                "name": "Love Yourz",
+                "duration_min_sec": "03:31",
+                "BPM": 82.81,
+                "mode": "major"
+            }
+        ],
+        "appears_on": [
+            "For All The Dogs",
+            "Pink Friday 2",
+            "For All The Dogs Scary Hours Edition",
+            "All I Want Is You",
+            "The Blueprint 3"
+        ]
+    }
+]

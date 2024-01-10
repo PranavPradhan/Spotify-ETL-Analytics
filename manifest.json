@@ -1,0 +1,15 @@
+{
+    "fileLocations": [
+      {
+        "URIs": [
+          "s3://spotifyetlbucket/top_artists_info.json"
+        ]
+      }
+    ],
+    "globalUploadSettings": {
+      "format": "JSON",
+      "delimiter": ",",
+      "textqualifier": "\"",
+      "containsHeader": "false"
+    }
+  }
