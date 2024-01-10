@@ -20,4 +20,38 @@ Below is the architecture diagram illustrating the workflow of the project:
 - An AWS account with S3 set up.
 - Tableau Desktop or Tableau Public for visualization.
 
+## Extracting Data from Spotify API 
+1.0 First, we authenticate with Spotify using the `SpotifyOAuth` class, which requires a `client_id`, `client_secret`, `redirect_uri`, and a `scope` for the required permissions.
+
+## Authentication
+First, we authenticate with Spotify using the `SpotifyOAuth` class, which requires a `client_id`, `client_secret`, `redirect_uri`, and a `scope` for the required permissions.
+
+### Fetch Top Artists
+We use the `current_user_top_artists` method to fetch the user's top artists over a short-term range, limited to 50 artists.
+
+### Extract Artist Information
+For each artist, we extract:
+- Name
+- Genres
+- Popularity
+
+### Fetch Top Albums
+For each artist, we fetch the top 5 albums, including:
+- Name
+- ID
+- Release date
+- Total tracks
+
+### Fetch Top Tracks
+For each artist, we fetch their top tracks in the US, and for each track, we gather:
+- Name
+- Duration (converted from milliseconds to minutes and seconds)
+- BPM (Beats Per Minute)
+- Mode (Major or Minor)
+
+### Compile Data
+All the extracted information is compiled into a list of dictionaries, each containing detailed data about an artist.
+
+The final output is a list of artist information, ready for storage or further analysis.
+ 
 
