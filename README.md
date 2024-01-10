@@ -8,6 +8,9 @@ Below is the architecture diagram illustrating the workflow of the project:
 
 ![Architecture Diagram](Architecture_Diagram.png "Architecture Diagram")
 
+![Architecture Diagram](Dashboard.png "Architecture Diagram")
+
+
 ## Features
 - **Data Extraction**: Utilize Spotify's API to gather data on your top artists, including genres, popularity scores, and related metrics.
 - **Data Storage**: Securely load and store extracted data in an Amazon S3 bucket.
@@ -54,4 +57,5 @@ All the extracted information is compiled into a list of dictionaries, each cont
 
 The final output is a list of artist information, ready for storage or further analysis.
  
+
 
