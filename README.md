@@ -57,5 +57,30 @@ All the extracted information is compiled into a list of dictionaries, each cont
 
 The final output is a list of artist information, ready for storage or further analysis.
  
+## Airflow Configuration 
+Install Apache Airflow
+- Install Airflow using pip:
+- pip install apache-airflow
+### Initialize Airflow Environment
+- Set `AIRFLOW_HOME` (optional): export AIRFLOW_HOME=~/airflow
+Replace `~/airflow` with your preferred directory.
+- Initialize the database: airflow db init
+### Configure Airflow
+- Edit the `airflow.cfg` file in the `AIRFLOW_HOME` directory as needed for your setup.
+### Create a User
+- Create an admin user:
+airflow users create --username [username] --password [password] --role Admin --email [email]
+### Start Airflow Components
+- Start the webserver and scheduler:
+airflow webserver -D
+airflow scheduler -D 
+### Access Airflow Web Interface
+- Go to `http://localhost:8080` in your web browser and log in with the user you created.
+- Write your DAGs and place them in the `dags` directory inside `AIRFLOW_HOME`.
+- Use the Airflow web interface to test and monitor your DAGs.
+
+
+
+
 
 
