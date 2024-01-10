@@ -3,6 +3,11 @@
 ## Project Overview
 This project leverages Spotify's API to extract data on your top artists, loads this data into Amazon S3, and utilizes Tableau for creating dynamic dashboard visualizations. It offers a comprehensive view of your musical preferences and trends over time.
 
+## Architecture
+Below is the architecture diagram illustrating the workflow of the project:
+
+![Architecture Diagram](Architecture_Diagram.png "Architecture Diagram")
+
 ## Features
 - **Data Extraction**: Utilize Spotify's API to gather data on your top artists, including genres, popularity scores, and related metrics.
 - **Data Storage**: Securely load and store extracted data in an Amazon S3 bucket.
@@ -14,3 +19,5 @@ This project leverages Spotify's API to extract data on your top artists, loads 
 - A Spotify account with API access.
 - An AWS account with S3 set up.
 - Tableau Desktop or Tableau Public for visualization.
+
+
