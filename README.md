@@ -8,9 +8,6 @@ Below is the architecture diagram illustrating the workflow of the project:
 
 ![Architecture Diagram](Architecture_Diagram.png "Architecture Diagram")
 
-![Architecture Diagram](Dashboard.png "Architecture Diagram")
-
-
 ## Features
 - **Data Extraction**: Utilize Spotify's API to gather data on your top artists, including genres, popularity scores, and related metrics.
 - **Data Storage**: Securely load and store extracted data in an Amazon S3 bucket.
@@ -86,6 +83,9 @@ airflow scheduler -D
 -Trigger and monitor DAG 
 - Verify DAG performance using Graph view 
 ![Airflow-Graph](Airflow-Graph.png "Airflow-Graph")
+# Tableau Visualization 
+Use S3 Connector on Tableau to visualize data stored within S3 Bucket 
+![Dashboard](Dashboard.png "Dashboard")
 
 
 
