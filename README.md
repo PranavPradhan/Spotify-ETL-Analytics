@@ -6,7 +6,7 @@ This project leverages Spotify's API to extract data on your top artists, loads 
 # Architecture
 Below is the architecture diagram illustrating the workflow of the project:
 
-![Architecture Diagram](Architecture_Diagram.png "Architecture Diagram")
+![Architecture Diagram](Images/Architecture_Diagram.png "Architecture Diagram")
 
 # Features
 - **Data Extraction**: Utilize Spotify's API to gather data on your top artists, including genres, popularity scores, and related metrics.
@@ -78,14 +78,14 @@ airflow scheduler -D
 ## Create a Connection from Airflow to S3 using IAM credentials
 - Add a new S3 connection on the Airflow webserver with connection ID as "aws_s3_conn" using your IAM credentials that grant full access to S3  
 - The connection will now be displayed on the Connections page 
-![Airflow-S3-Connection](Airflow-S3-connection.png "Airflow-S3-Connection")
+![Airflow-S3-Connection](Images/Airflow-S3-connection.png "Airflow-S3-Connection")
 ## Run and monitor DAG
 ### Verify DAG performance using Graph view 
-![Airflow-Graph](Airflow-Graph.png "Airflow-Graph")
+![Airflow-Graph](Images/Airflow-Graph.png "Airflow-Graph")
 # Tableau Visualization 
 ## Visualize insights on Tableau using S3 connector to connect to S3 bucket
 
-![Dashboard](Dashboard.png "Dashboard")
+![Dashboard](Images/Dashboard.png "Dashboard")
 
 
 
