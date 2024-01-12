@@ -78,6 +78,9 @@ airflow scheduler -D
 - Go to `http://localhost:8080` in your web browser and log in with the user you created.
 - Write your DAGs and place them in the `dags` directory inside `AIRFLOW_HOME`.
 - Use the Airflow web interface to test and monitor your DAGs.
+### Create a Connection from Airflow to S3 using IAM credentials
+- Add a new S3 connection on the Airflow webserver 
+![Airflow-S3-Connection](Airflow-S3-connection.png "Airflow-S3-Connection")
 
 
 
