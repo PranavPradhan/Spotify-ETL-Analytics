@@ -79,8 +79,13 @@ airflow scheduler -D
 - Write your DAGs and place them in the `dags` directory inside `AIRFLOW_HOME`.
 - Use the Airflow web interface to test and monitor your DAGs.
 ### Create a Connection from Airflow to S3 using IAM credentials
-- Add a new S3 connection on the Airflow webserver 
+- Add a new S3 connection on the Airflow webserver with connection ID as "aws_s3_conn" using your IAM credentials that grant full access to S3  
+- The connection will now be displayed on the Connections page 
 ![Airflow-S3-Connection](Airflow-S3-connection.png "Airflow-S3-Connection")
+### Run and monitor DAG
+-Trigger and monitor DAG 
+- Verify DAG performance using Graph view 
+![Airflow-Graph](Airflow-Graph.png "Airflow-Graph")
 
 
 
