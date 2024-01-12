@@ -80,11 +80,11 @@ airflow scheduler -D
 - The connection will now be displayed on the Connections page 
 ![Airflow-S3-Connection](Airflow-S3-connection.png "Airflow-S3-Connection")
 ## Run and monitor DAG
--Trigger and monitor DAG 
-- Verify DAG performance using Graph view 
+### Verify DAG performance using Graph view 
 ![Airflow-Graph](Airflow-Graph.png "Airflow-Graph")
 # Tableau Visualization 
-Use S3 Connector on Tableau to visualize data stored within S3 Bucket 
+## Visualize insights on Tableau using S3 connector to connect to S3 bucket
+
 ![Dashboard](Dashboard.png "Dashboard")
 
 
